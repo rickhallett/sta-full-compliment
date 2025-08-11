@@ -1,0 +1,26 @@
+site_name: Pirate Wiki
+site_url: https://rickhallett.github.io/smoking-gun/
+repo_url: https://github.com/rickhallett/smoking-gun
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
+  - pdf-export:
+      combined: true
+      combined_output_path: manual.pdf
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+extra:
+  social: []
+  generator: false
+# Omit 'nav' to auto-generate from docs/ folder hierarchy
