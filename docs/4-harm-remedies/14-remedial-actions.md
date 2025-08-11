@@ -1,5 +1,11 @@
 # 14. Remedial Actions Required
 
+## 14.0 Tiers
+1. Immediate, non-negotiable legal requirements
+2. Standard best practices to restore trust
+3. Recommended long-term improvements
+
+
 ## 14.1 Immediate Technical Remediation
 
 *[Content to be added]*

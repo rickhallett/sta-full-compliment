@@ -482,6 +482,10 @@ The case law unanimously condemns the Council's conduct. Every principle establi
 - No reasonable adjustments (Archibald)
 
 This is not a marginal or technical breach. It is a comprehensive failure of equality law compliance that would shock the judicial conscience. The authorities provide no defense, no excuse, and no escape from liability. The only question is the scale of damages and scope of mandatory relief.
+## Liability and Remedies
+
+See consolidated: [Liability and Remedies Overview](liability-and-remedies.md)
+
 ## Navigation
 - **Part:** [Part III: Legal and Regulatory Breaches](part-iii-legal-regulatory-breaches.md)
 - **Previous:** [6. Data Science and Statistical Validity](06-data-science-statistical-validity.md)
