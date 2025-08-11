@@ -3,6 +3,13 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      build_pdf:
+        description: "Generate combined PDF (manual only)"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
 permissions:
   contents: read
   pages: write
@@ -20,6 +27,11 @@ jobs:
           python-version: "3.11"
       - run: pip install -r requirements.txt
       - run: mkdocs build
+      - name: Generate combined PDF (manual trigger only)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.build_pdf == 'true' }}
+        env:
+          ENABLE_PDF_EXPORT: "1"
+        run: mkdocs build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
