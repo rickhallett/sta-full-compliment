@@ -320,4 +320,4 @@ This analysis identifies **substantial gaps** between observed practices and ind
 These improvements would help ensure future consultations maintain democratic accessibility while managing technical risks appropriately. The current situation presents an valuable opportunity for organizational learning and process enhancement that could benefit all future digital public services.
 
 ---
-*Return to [Main Index](README.md) | [Part II](part-ii-technical-analysis.md)*
+*Return to [Main Index](../index.md) | [Part II](./index.md)*

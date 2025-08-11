@@ -21,10 +21,10 @@
 *[Content to be added]*
 
 ## Navigation
-- **Part:** [Part IV: Harm Assessment and Remedies](part-iv-harm-assessment-remedies.md)
+- **Part:** [Part IV: Harm Assessment and Remedies](./index.md)
 - **Previous:** [13. Harm and Damage Assessment](13-harm-damage-assessment.md)
 - **Current:** 14. Remedial Actions Required
 - **Next:** [15. Regulatory and Legal Next Steps](15-regulatory-legal-steps.md)
 
 ---
-*Return to [Main Index](README.md) | [Part IV](part-iv-harm-assessment-remedies.md)*
+*Return to [Main Index](../index.md) | [Part IV](./index.md)*

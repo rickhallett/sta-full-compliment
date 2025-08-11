@@ -25,10 +25,10 @@
 *[Content to be added]*
 
 ## Navigation
-- **Part:** [Part IV: Harm Assessment and Remedies](part-iv-harm-assessment-remedies.md)
+- **Part:** [Part IV: Harm Assessment and Remedies](./index.md)
 - **Previous:** [14. Remedial Actions Required](14-remedial-actions.md)
 - **Current:** 15. Regulatory and Legal Next Steps
-- **Next:** [16. Documentary Evidence](16-documentary-evidence.md)
+- **Next:** [16. Documentary Evidence](../5-evidence/16-documentary-evidence.md)
 
 ---
-*Return to [Main Index](README.md) | [Part IV](part-iv-harm-assessment-remedies.md)*
+*Return to [Main Index](../index.md) | [Part IV](./index.md)*

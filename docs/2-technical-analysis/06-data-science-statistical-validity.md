@@ -345,10 +345,10 @@ This is not a minor statistical inconvenience that can be addressed through clev
 The only statistically valid conclusion that can be drawn from this consultation is that **no valid conclusions can be drawn**. The data is irreparably contaminated, the results are meaningless, and the exercise has become a cautionary tale in how technical decisions can destroy democratic participation and scientific validity simultaneously.
 
 ## Navigation
-- **Part:** [Part II: Technical Analysis](part-ii-technical-analysis.md)
+- **Part:** [Part II: Technical Analysis](./index.md)
 - **Previous:** [5. Software Engineering Failures](05-software-engineering-failures.md)
 - **Current:** 6. Data Science and Statistical Validity
-- **Next:** [7. Equality Act Violations](07-equality-act-violations.md)
+- **Next:** [7. Equality Act Violations](../3-legal-regulatory/07-equality-act-violations.md)
 
 ---
-*Return to [Main Index](README.md) | [Part II](part-ii-technical-analysis.md)*
+*Return to [Main Index](../index.md) | [Part II](./index.md)*

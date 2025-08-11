@@ -17,10 +17,10 @@
 *[Content to be added]*
 
 ## Navigation
-- **Part:** [Part V: Supporting Evidence](part-v-supporting-evidence.md)
+- **Part:** [Part V: Supporting Evidence](./index.md)
 - **Previous:** [16. Documentary Evidence](16-documentary-evidence.md)
 - **Current:** 17. Expert Analysis and Opinions
 - **Next:** [18. Comparative Case Studies](18-comparative-case-studies.md)
 
 ---
-*Return to [Main Index](README.md) | [Part V](part-v-supporting-evidence.md)*
+*Return to [Main Index](../index.md) | [Part V](./index.md)*

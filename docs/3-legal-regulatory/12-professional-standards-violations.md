@@ -27,10 +27,10 @@
 *[Content to be added]*
 
 ## Navigation
-- **Part:** [Part III: Legal and Regulatory Breaches](part-iii-legal-regulatory-breaches.md)
+- **Part:** [Part III: Legal and Regulatory Breaches](./index.md)
 - **Previous:** [11. Local Government Framework](11-local-government-framework.md)
 - **Current:** 12. Professional Standards and Code Violations
-- **Next:** [13. Harm and Damage Assessment](13-harm-damage-assessment.md)
+- **Next:** [13. Harm and Damage Assessment](../4-harm-remedies/13-harm-damage-assessment.md)
 
 ---
-*Return to [Main Index](README.md) | [Part III](part-iii-legal-regulatory-breaches.md)*
+*Return to [Main Index](../index.md) | [Part III](./index.md)*

@@ -21,10 +21,10 @@
 *[Content to be added]*
 
 ## Navigation
-- **Part:** [Part III: Legal and Regulatory Breaches](part-iii-legal-regulatory-breaches.md)
+- **Part:** [Part III: Legal and Regulatory Breaches](./index.md)
 - **Previous:** [10. Data Protection and Privacy Law](10-data-protection-privacy.md)
 - **Current:** 11. Local Government Legal Framework
 - **Next:** [12. Professional Standards Violations](12-professional-standards-violations.md)
 
 ---
-*Return to [Main Index](README.md) | [Part III](part-iii-legal-regulatory-breaches.md)*
+*Return to [Main Index](../index.md) | [Part III](./index.md)*

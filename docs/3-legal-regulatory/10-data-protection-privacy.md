@@ -616,10 +616,10 @@ Creates the strongest possible case for regulatory action. The only question is 
 This represents one of the most serious data protection breaches by a UK public body in recent history - not because of data loss or cyber attack, but because personal data processing has been weaponized to exclude vulnerable citizens from democratic participation.
 
 ## Navigation
-- **Part:** [Part III: Legal and Regulatory Breaches](part-iii-legal-regulatory-breaches.md)
+- **Part:** [Part III: Legal and Regulatory Breaches](./index.md)
 - **Previous:** [9. WCAG Violations](09-wcag-violations.md)
 - **Current:** 10. Data Protection and Privacy Law
 - **Next:** [11. Local Government Legal Framework](11-local-government-framework.md)
 
 ---
-*Return to [Main Index](README.md) | [Part III](part-iii-legal-regulatory-breaches.md)*
+*Return to [Main Index](../index.md) | [Part III](./index.md)*

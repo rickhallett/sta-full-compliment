@@ -611,10 +611,10 @@ The courts have repeatedly emphasized that consultation is not an empty ritual b
 Any judge reviewing this matter would be compelled to grant relief, not just to vindicate individual rights, but to defend the very foundations of lawful public administration.
 
 ## Navigation
-- **Part:** [Part III: Legal and Regulatory Breaches](part-iii-legal-regulatory-breaches.md)
+- **Part:** [Part III: Legal and Regulatory Breaches](./index.md)
 - **Previous:** [7. Equality Act Violations](07-equality-act-violations.md)
 - **Current:** 8. Public Law and Administrative Failures
 - **Next:** [9. WCAG Violations](09-wcag-violations.md)
 
 ---
-*Return to [Main Index](README.md) | [Part III](part-iii-legal-regulatory-breaches.md)*
+*Return to [Main Index](../index.md) | [Part III](./index.md)*
