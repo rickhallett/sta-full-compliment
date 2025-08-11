@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+*.egg
+.python-version
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.dmypy.json
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging / build
+build/
+dist/
+pip-wheel-metadata/
+pip-log.txt
+*.log
+
+# MkDocs
+site/
+.mkdocs-cache/
+.cache/
+
+# Node (if used for assets)
+node_modules/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Env files
+.env
+.env.*
+
