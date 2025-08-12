@@ -22,7 +22,7 @@ Per *R v Secretary of State for Social Services ex p Association of Metropolitan
 
 **Hidden Breach:** The CAPTCHA implementation reveals pre-determination:
 - Decision to exclude certain demographics already made
-- Technical "solution" to suppress responses predetermined
+- Technical implementation resulted in reduced responses
 - Consultation outcome being engineered, not gathered
 
 **Evidence of Predetermination:**
@@ -30,7 +30,7 @@ Per *R v Secretary of State for Social Services ex p Association of Metropolitan
 - No consideration of impact on consultation validity
 - Treating increased participation as problem, not success
 
-Per *R (Wainwright) v Richmond upon Thames LBC* [2001] EWCA Civ 2062, changing consultation parameters mid-process suggests bad faith and predetermination.
+Per *R (Wainwright) v Richmond upon Thames LBC* [2001] EWCA Civ 2062, changing consultation parameters mid-process raises questions about the integrity of the consultation process.
 
 ### 8.1.3 Second Principle: Sufficient Reasons
 

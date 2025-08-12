@@ -16,3 +16,17 @@
 .terminal-mkdocs-side-nav-li-ul-li {
   padding-top: 0.25rem;
 }
+
+#mkdocs-terminal-content > ul > li {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#mkdocs-terminal-content > ul > li > a {
+  color: #315fb4;
+  font-weight: 600;
+}
+
+#terminal-mkdocs-main-content a:not(.headerlink) {
+  text-decoration: none;
+}

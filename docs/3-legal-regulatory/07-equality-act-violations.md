@@ -159,7 +159,7 @@ Per *R (Elias) v Secretary of State for Defence* [2006] EWCA Civ 1293, aims must
 - No evidence of actual bot attacks
 - Traffic increase explained by canvassing
 - Post-hoc rationalization not genuine aim
-- Discriminatory aim (suppressing responses) illegitimate
+- Effect that reduces participation from certain groups
 
 #### Proportionality Assessment
 
@@ -398,7 +398,7 @@ The discrimination is aggravated by:
 **Deliberateness:** Conscious decision to maintain barriers
 **Vulnerability:** Targeting most vulnerable residents
 **Democratic Context:** Fundamental rights engaged
-**Bad Faith:** Appears designed to suppress responses
+**Foreseeable Impact:** Implementation resulted in reduced participation from protected groups
 
 Aggravated discrimination increases damages (*Vento v Chief Constable* [2002] EWCA Civ 1871).
 

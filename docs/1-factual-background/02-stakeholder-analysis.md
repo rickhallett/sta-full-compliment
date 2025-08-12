@@ -2,8 +2,6 @@
 
 ## 2.1 Swanage Town Council: Statutory Duties and Responsibilities
 
-### 2.1 Swanage Town Council: Statutory Duties and Responsibilities
-
 #### 2.1.1 Constitutional Status and Vires
 
 Swanage Town Council operates as a parish council under the Local Government Act 1972, exercising powers pursuant to s.111 (subsidiary powers) and various specific statutory provisions. As of 2024, the Council also exercises the General Power of Competence under s.1 of the Localism Act 2011, having satisfied the eligibility criteria set out in The Parish Councils (General Power of Competence) (Prescribed Conditions) Order 2012 (SI 2012/965).

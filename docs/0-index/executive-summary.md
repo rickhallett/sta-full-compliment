@@ -60,6 +60,14 @@ See: [Documentary Evidence (16)](../5-evidence/16-documentary-evidence.md), [Exp
 - Continued non‑compliance risks regulatory action and reputational harm.
 - Missed opportunity to collect representative, high‑quality evidence for decision‑making.
 
+## Our Three Core Demands
+
+1. **Immediate CAPTCHA Removal and Apology:** Remove all accessibility barriers immediately and issue a public acknowledgment of the discrimination caused to elderly and disabled residents.
+
+2. **Re-run Accessible Consultation:** Conduct a new consultation phase with guaranteed accessible methods (phone, paper, in-person assistance) and extended timelines to ensure all residents can participate.
+
+3. **Independent Audit and Compensation:** Commission an independent accessibility audit of all council digital services and establish a compensation framework for affected residents based on Vento band guidelines.
+
 ## Where to dive deeper
 - Overview index: [Part I — Factual Background](../1-factual-background/index.md)
 - Technical index: [Part II — Technical Analysis](../2-technical-analysis/index.md)

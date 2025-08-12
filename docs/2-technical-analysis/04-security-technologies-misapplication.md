@@ -1,6 +1,4 @@
-
-
-### 4. Review of Security Technology Implementation
+# 4. Review of Security Technology Implementation
 
 This section examines the deployment of CAPTCHA technology during the Swanage Shore Road Public Consultation, assessing its alignment with industry standards and its impact on public participation. The analysis raises significant concerns about the appropriateness of this intervention and its effects on democratic engagement, particularly for elderly and disabled residents.
 
