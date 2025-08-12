@@ -12,3 +12,7 @@
   font-size: 1.1rem;
   font-weight: 400;
 }
+
+.terminal-mkdocs-side-nav-li-ul-li {
+  padding-top: 0.25rem;
+}

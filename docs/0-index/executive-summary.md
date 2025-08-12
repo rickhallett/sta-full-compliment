@@ -11,14 +11,14 @@
 - The change was not communicated with appropriate mitigation or alternatives, leading to a step‑change in accessibility and participation patterns.
 - Submissions from affected groups dropped or were deterred, invalidating comparability over time.
 
-See: [Chronology of Events](../1-overview/01-chronology-of-events.md), [Factual Background](../1-overview/part-i-factual-background.md)
+See: [Chronology of Events](../1-factual-background/01-chronology-of-events.md), [Factual Background](../1-factual-background/index.md)
 
 ## Who was affected and how
 - **Elderly and disabled residents**: Disproportionate exclusion due to CAPTCHA, contravening the duty to make reasonable adjustments and WCAG expectations.
 - **Digitally excluded**: Residents relying on assisted digital support or alternative channels were not provided equivalent means in time.
 - **Wider community**: Consultation outputs no longer reflect the affected population; policy legitimacy is diminished.
 
-See: [Demographic Impact Analysis](../1-overview/03-demographic-impact-analysis.md), [Stakeholder Analysis](../1-overview/02-stakeholder-analysis.md)
+See: [Demographic Impact Analysis](../1-factual-background/03-demographic-impact-analysis.md), [Stakeholder Analysis](../1-factual-background/02-stakeholder-analysis.md)
 
 ## Why this is likely unlawful (legal summary)
 - **Equality Act (reasonable adjustments; PSED)**: Failure to anticipate and accommodate known accessibility barriers; lack of timely mitigations.
@@ -61,7 +61,7 @@ See: [Documentary Evidence (16)](../5-evidence/16-documentary-evidence.md), [Exp
 - Missed opportunity to collect representative, high‑quality evidence for decision‑making.
 
 ## Where to dive deeper
-- Overview index: [Part I — Factual Background](../1-overview/index.md)
+- Overview index: [Part I — Factual Background](../1-factual-background/index.md)
 - Technical index: [Part II — Technical Analysis](../2-technical-analysis/index.md)
 - Legal/regulatory index: [Part III — Legal & Regulatory](../3-legal-regulatory/index.md)
 - Remedies index: [Part IV — Harm & Remedies](../4-harm-remedies/index.md)

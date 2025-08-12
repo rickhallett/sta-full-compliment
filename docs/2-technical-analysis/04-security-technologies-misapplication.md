@@ -1,6 +1,4 @@
-# Strategic Briefing Document: Swanage Shore Road Public Consultation
 
-## Part II: Technical Analysis
 
 ### 4. Review of Security Technology Implementation
 
@@ -239,7 +237,7 @@ The findings suggest an urgent need for policy review and procedural enhancement
 
 ## Navigation
 - **Part:** [Part II: Technical Analysis](./index.md)
-- **Previous:** [3. Demographic and Impact Analysis](../1-overview/03-demographic-impact-analysis.md)
+- **Previous:** [3. Demographic and Impact Analysis](../1-factual-background/03-demographic-impact-analysis.md)
 - **Current:** 4. Fundamental Misapplication of Security Technologies
 - **Next:** [5. Software Engineering Failures](05-software-engineering-failures.md)
 
