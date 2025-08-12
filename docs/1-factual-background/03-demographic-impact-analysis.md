@@ -366,10 +366,10 @@ This is not merely poor practice or unfortunate oversight. It represents one of 
 The CAPTCHA implementation converted a public consultation from a democratic exercise into an discriminatory filter that silenced the vulnerable while amplifying the privileged. This quantified impact assessment proves beyond reasonable doubt that Swanage Town Council, Dorset Coast Forum, and Granicus UK Ltd collaborated—whether intentionally or negligently—in an act of mass discrimination against elderly and disabled residents.
 
 ## Navigation
-- **Part:** [Part I: Factual Background](part-i-factual-background.md)
+- **Part:** [Part I: Factual Background](index.md)
 - **Previous:** [2. Stakeholder Analysis](02-stakeholder-analysis.md)
 - **Current:** 3. Demographic and Impact Analysis
-- **Next:** [4. Security Technologies Misapplication](04-security-technologies-misapplication.md)
+- **Next:** [4. Security Technologies Misapplication](../2-technical-analysis/04-security-technologies-misapplication.md)
 
 ---
-*Return to [Main Index](README.md) | [Part I](part-i-factual-background.md)*
+*Return to [Main Index](../index.md) | [Part I](index.md)*

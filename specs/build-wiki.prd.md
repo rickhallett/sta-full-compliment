@@ -1,4 +1,4 @@
-# Pirate Wiki PRD (MkDocs Material + GitHub Pages)
+# Project Nassau PRD (MkDocs Material + GitHub Pages)
 
 ## 1) Overview
 Create a pirate‑inspired, LLM‑friendly wiki from existing Markdown sources, with automatic navigation from folder structure, built‑in search, and a one‑click combined PDF export. Host on GitHub Pages; support local preview and builds.
@@ -69,7 +69,7 @@ mkdocs-pdf-export-plugin==0.5.10
 
 `mkdocs.yml`
 ```
-site_name: Pirate Wiki
+site_name: Project Nassau
 site_url: https://<your-username>.github.io/<your-repo>/
 repo_url: https://github.com/<your-username>/<your-repo>
 theme:

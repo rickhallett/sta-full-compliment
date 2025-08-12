@@ -1,0 +1,14 @@
+/* Custom overrides */
+.headerlink {
+  display: none;
+}
+
+.terminal-mkdocs-side-nav-li {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.terminal-mkdocs-side-nav-li > span {
+  font-size: 1.1rem;
+  font-weight: 400;
+}

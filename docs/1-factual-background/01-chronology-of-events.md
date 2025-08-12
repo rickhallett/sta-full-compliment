@@ -17,10 +17,10 @@
 *[Content to be added]*
 
 ## Navigation
-- **Part:** [Part I: Factual Background](part-i-factual-background.md)
-- **Previous:** [Part I Overview](part-i-factual-background.md)
+- **Part:** [Part I: Factual Background](index.md)
+- **Previous:** [Part I Overview](index.md)
 - **Current:** 1. Chronology of Events
 - **Next:** [2. Stakeholder Analysis](02-stakeholder-analysis.md)
 
 ---
-*Return to [Main Index](README.md) | [Part I](part-i-factual-background.md)*
+*Return to [Main Index](../index.md) | [Part I](index.md)*

@@ -1,3 +1,10 @@
-# Technical Analysis
+# Overview
 
-This section covers software engineering failures and data science/statistics impacting consultation validity.
+# Part II — Technical Analysis
+
+## Contents
+- [04-security-technologies-misapplication.md](04-security-technologies-misapplication.md)
+- [05-software-engineering-failures.md](05-software-engineering-failures.md)
+- [06-data-science-statistical-validity.md](06-data-science-statistical-validity.md)
+
+[Back to Home](../index.md)

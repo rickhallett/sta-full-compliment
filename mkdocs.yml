@@ -2,7 +2,8 @@ site_name: Project Nassau - Smoking Gun
 site_url: https://rickhallett.github.io/smoking-gun/
 repo_url: https://github.com/rickhallett/smoking-gun
 theme:
-  name: material
+  name: terminal
+  # palette: gruvbox_dark
   features:
     - navigation.instant
     - navigation.sections
@@ -24,4 +25,6 @@ markdown_extensions:
 extra:
   social: []
   generator: false
+extra_css:
+  - assets/stylesheets/extra.css
 # Omit 'nav' to auto-generate from docs/ folder hierarchy

@@ -487,10 +487,10 @@ This is not a marginal or technical breach. It is a comprehensive failure of equ
 See consolidated: [Liability and Remedies Overview](liability-and-remedies.md)
 
 ## Navigation
-- **Part:** [Part III: Legal and Regulatory Breaches](part-iii-legal-regulatory-breaches.md)
-- **Previous:** [6. Data Science and Statistical Validity](06-data-science-statistical-validity.md)
+- **Part:** [Part III: Legal and Regulatory Breaches](./index.md)
+- **Previous:** [6. Data Science and Statistical Validity](../2-technical-analysis/06-data-science-statistical-validity.md)
 - **Current:** 7. Equality Act 2010 Violations
 - **Next:** [8. Public Law and Administrative Failures](08-public-law-failures.md)
 
 ---
-*Return to [Main Index](README.md) | [Part III](part-iii-legal-regulatory-breaches.md)*
+*Return to [Main Index](../index.md) | [Part III](./index.md)*

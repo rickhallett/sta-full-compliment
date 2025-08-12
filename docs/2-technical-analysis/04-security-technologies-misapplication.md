@@ -52,7 +52,7 @@ The Institute of Engineering and Technology (IET) Code of Conduct and British Co
 
 These professional standards suggest that a comprehensive equality impact assessment should have been conducted prior to implementation.
 
-#### 4.2 Technical Analysis: Traffic Patterns and Legitimate Engagement
+#### 4.2 Technical Signatures: Bot Traffic vs Legitimate Engagement
 
 ##### 4.2.1 Automated Traffic Indicators
 
@@ -96,7 +96,7 @@ The traffic increase corresponds temporally with documented community awareness 
 
 This correlation pattern suggests the traffic increase resulted from successful community engagement rather than automated attacks.
 
-#### 4.3 Industry-Standard Response Protocols
+#### 4.3 Industry-Standard Threat Response Protocols
 
 ##### 4.3.1 Change Management Framework Assessment
 
@@ -144,7 +144,7 @@ ISO/IEC 20000-1:2018 emphasizes controlled change implementation. The consultati
 
 These areas require examination to ensure future compliance with service management standards.
 
-#### 4.4 Platform Capabilities and Alternative Approaches
+#### 4.4 Analysis of Granicus Platform Capabilities and Alternatives
 
 ##### 4.4.1 Granicus Platform Features
 
@@ -238,10 +238,10 @@ These measures would help ensure future consultations achieve security objective
 The findings suggest an urgent need for policy review and procedural enhancement to prevent similar issues in future public consultations.
 
 ## Navigation
-- **Part:** [Part II: Technical Analysis](part-ii-technical-analysis.md)
-- **Previous:** [3. Demographic and Impact Analysis](03-demographic-impact-analysis.md)
+- **Part:** [Part II: Technical Analysis](./index.md)
+- **Previous:** [3. Demographic and Impact Analysis](../1-overview/03-demographic-impact-analysis.md)
 - **Current:** 4. Fundamental Misapplication of Security Technologies
 - **Next:** [5. Software Engineering Failures](05-software-engineering-failures.md)
 
 ---
-*Return to [Main Index](README.md) | [Part II](part-ii-technical-analysis.md)*
+*Return to [Main Index](../index.md) | [Part II](./index.md)*

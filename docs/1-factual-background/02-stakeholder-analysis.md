@@ -684,10 +684,10 @@ The complexity of the contractual chain cannot be used as a shield against liabi
 All three parties face significant legal, financial, and reputational consequences. The interconnected nature of their failures creates a cascade of liability that exposes each to maximum consequences rather than providing mutual protection.
 
 ## Navigation
-- **Part:** [Part I: Factual Background](part-i-factual-background.md)
+- **Part:** [Part I: Factual Background](index.md)
 - **Previous:** [1. Chronology of Events](01-chronology-of-events.md)
 - **Current:** 2. Stakeholder Analysis and Contractual Relationships
 - **Next:** [3. Demographic and Impact Analysis](03-demographic-impact-analysis.md)
 
 ---
-*Return to [Main Index](README.md) | [Part I](part-i-factual-background.md)*
+*Return to [Main Index](../index.md) | [Part I](index.md)*

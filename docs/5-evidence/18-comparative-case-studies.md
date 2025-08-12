@@ -471,10 +471,10 @@ Swanage stands alone as:
 The comparative evidence is overwhelming: No responsible public body uses CAPTCHA for public consultations, courts consistently find it discriminatory, and damages are substantial and increasing. Swanage has no defense, no excuse, and no escape from liability.
 
 ## Navigation
-- **Part:** [Part V: Supporting Evidence](part-v-supporting-evidence.md)
+- **Part:** [Part V: Supporting Evidence](./index.md)
 - **Previous:** [17. Expert Analysis and Opinions](17-expert-analysis.md)
 - **Current:** 18. Comparative Case Studies
-- **Next:** [Appendices](appendices.md)
+- **Next:** [Appendices](../appendices/methodology.md)
 
 ---
-*Return to [Main Index](README.md) | [Part V](part-v-supporting-evidence.md)*
+*Return to [Main Index](../index.md) | [Part V](./index.md)*
