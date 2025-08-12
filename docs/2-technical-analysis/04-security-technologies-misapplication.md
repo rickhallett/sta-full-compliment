@@ -213,6 +213,8 @@ The apparent absence of these prerequisites raises questions about whether vendo
 
 ### Conclusion of Section 4
 
+While the specific version of CAPTCHA technology is a key detail, the fundamental failure identified in this section is one of enduring principle. Any technical implementation, regardless of its age or purpose, that results in the foreseeable and disproportionate exclusion of protected groups from a core public service is a breach of the principles of accessibility-by-design and proportionate response. Future technological changes will not alter this core finding.
+
 This technical analysis identifies **significant concerns** regarding the CAPTCHA implementation during the Swanage Shore Road consultation. The evidence suggests:
 
 1. **Procedural gaps** in change management and risk assessment

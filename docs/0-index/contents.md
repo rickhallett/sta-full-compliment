@@ -108,5 +108,5 @@
     - [17.4 Public Law Expert Commentary](../5-evidence/17-expert-analysis.md#174-public-law-expert-commentary)
   - [18. Comparative Case Studies](../5-evidence/18-comparative-case-studies.md)
 
-- [Appendices](../glossary.md)
-  - [B. Technical Glossary and Definitions](../glossary.md)
+- [Appendices](../appendices/index.md)
+  - [B. Technical Glossary and Definitions](../appendices/statistical-methodology-detailed.md)

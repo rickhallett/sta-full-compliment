@@ -29,9 +29,9 @@
 *[Content to be added]*
 
 ## Navigation
-- **Previous:** [18. Comparative Case Studies](18-comparative-case-studies.md)
+- **Previous:** [18. Comparative Case Studies](../5-evidence/18-comparative-case-studies.md)
 - **Current:** Appendices
 - **Next:** [Schedule of Demands](schedule-of-demands.md)
 
 ---
-*Return to [Main Index](README.md)*
+*Return to [Main Index](../index.md)*

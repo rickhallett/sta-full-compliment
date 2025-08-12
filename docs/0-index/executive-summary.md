@@ -59,6 +59,7 @@ See: [Documentary Evidence (16)](../5-evidence/16-documentary-evidence.md), [Exp
 - Policy decisions built on invalid data are exposed to legal challenge and public trust erosion.
 - Continued non‑compliance risks regulatory action and reputational harm.
 - Missed opportunity to collect representative, high‑quality evidence for decision‑making.
+- **Risk of "Strategic Sidestep":** Simply voiding the consultation does not remedy the underlying breach of the Public Sector Equality Duty. The council has a positive obligation to properly consult and re-engage with the residents who were unlawfully excluded.
 
 ## Our Three Core Demands
 
@@ -74,4 +75,4 @@ See: [Documentary Evidence (16)](../5-evidence/16-documentary-evidence.md), [Exp
 - Legal/regulatory index: [Part III — Legal & Regulatory](../3-legal-regulatory/index.md)
 - Remedies index: [Part IV — Harm & Remedies](../4-harm-remedies/index.md)
 - Evidence index: [Part V — Supporting Evidence](../5-evidence/index.md)
-- Glossary: [Key Terms](../glossary.md)
+- Glossary: [Key Terms](../appendices/statistical-methodology-detailed.md)

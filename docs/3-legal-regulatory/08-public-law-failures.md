@@ -146,6 +146,12 @@ Per *R (Eisai Ltd) v NICE* [2008] EWCA Civ 438, decisions must be based on "reli
 
 Lord Woolf CJ stated consultation must be "fair in substance as well as form." The CAPTCHA implementation is unfair in both.
 
+#### The Positive Duty to Consult and the Illegality of the Act Itself
+
+It is critical to note that the council's legal failure is twofold. Firstly, it failed to conduct a lawful consultation. Secondly, the very *act* of implementing a foreseeably discriminatory barrier on a public service is a breach of the Public Sector Equality Duty (PSED) and the duty to make reasonable adjustments under the Equality Act 2010.
+
+Therefore, a decision to simply void the consultation results does not remedy the initial unlawful act. The PSED creates a positive duty to advance equality of opportunity. Having failed this duty, the council cannot simply sidestep the issue; it is legally compelled to take positive steps to re-engage with the communities it has excluded.
+
 ## 8.2 Procedural Impropriety and Wednesbury Unreasonableness
 
 ### 8.2.1 Procedural Impropriety Framework

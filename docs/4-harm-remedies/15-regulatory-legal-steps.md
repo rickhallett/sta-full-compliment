@@ -1,5 +1,13 @@
 # 15. Regulatory and Legal Next Steps
 
+## Timeline for Compliance
+
+A failure to adhere to the following timeline will be considered a refusal to remedy the identified breaches and will trigger the regulatory and legal actions outlined below without further notice.
+
+- **Within 7 days of receipt of this report:** A formal, public acknowledgment of the issues raised and the immediate removal of the discriminatory CAPTCHA.
+- **Within 28 days:** Publication of a detailed remediation plan, including the timetable for a new, accessible consultation phase, and the framework for compensation.
+- **Within 90 days:** Full implementation of all Tier 1 and Tier 2 remedies as outlined in Section 14.
+
 ## 15.1 Equality and Human Rights Commission Referral
 
 *[Content to be added]*

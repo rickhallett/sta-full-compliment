@@ -89,6 +89,18 @@
 
 Compensation for affected individuals will be assessed based on the "Vento bands," the established framework for quantifying injury to feelings in discrimination cases. Given the serious nature of this exclusion from a core democratic process, it is anticipated that claims would fall into the middle to upper Vento bands. Aggravating factors, such as the targeting of vulnerable groups and the failure to remedy the situation, may apply. A detailed quantum analysis based on relevant case law will be provided as part of the formal pre-action protocol.
 
+## 14.6 Success Metrics and Independent Oversight
+
+To ensure the remedies are implemented in good faith and are effective, the following success metrics must be met and publicly reported on. We demand the appointment of an independent monitor (e.g., a local third-sector organisation or the Local Government Ombudsman) to verify these metrics.
+
+| Remedy | Metric | Target |
+| :--- | :--- | :--- |
+| **Telephone Hotline** | Call Answer Rate | >90% within 3 rings |
+| | Call Abandonment Rate| <5% |
+| **Paper Forms** | Availability | Always in stock at 10+ public locations |
+| | Processing Time | All forms scanned and logged within 48 hours of receipt |
+| **Overall Participation**| Response rate from over-75s | Must be at least 80% of the rate for under-50s |
+
 ## Navigation
 - **Part:** [Part IV: Harm Assessment and Remedies](./index.md)
 - **Previous:** [13. Harm and Damage Assessment](13-harm-damage-assessment.md)
